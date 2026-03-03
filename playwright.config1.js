@@ -52,7 +52,7 @@ projects:[
     use:{
       
       browserName: 'webkit',
-       headless: false,
+       headless: true,
         screenshot: 'on',
         ignoreHTTPSErrors: true,
         video: 'on',
