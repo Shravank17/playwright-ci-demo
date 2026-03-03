@@ -1,0 +1,14 @@
+var a = 10;
+console.log(a);
+var b = "Hello World";
+console.log(b);
+var c = true;
+console.log(c);
+var d = "Hello World";
+console.log(d);
+var e = [1, 2, 3, 4, 5];
+console.log(e);
+var f = ["Hello", "World"];
+console.log(f);
+var g = [1, "Hello", true];
+console.log(g);

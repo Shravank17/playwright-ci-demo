@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7751","login and add product to cart","safari","2026-02-28","passed","2026-02-28","","ClientPageObject.spec.js","",""
+"","8730","login and add product to cart for ADIDAS ORIGINAL","safari","2026-02-28","passed","2026-02-28","","ClientPageObject.spec.js","",""
+"","9757","login and add product to cart for ZARA COAT 3","safari","2026-02-28","passed","2026-02-28","","ClientPageObject.spec.js","",""

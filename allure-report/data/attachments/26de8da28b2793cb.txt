@@ -1,0 +1,9 @@
+[class LoginPage]
+[class POManger]
+LoginPage file loaded
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+[class PaymentPage]
+| 69a2f12f415d779f9b4c2107 |
+OrderNumber value: | 69a2f12f415d779f9b4c2107 |
+[class OrderPage]
+order found
